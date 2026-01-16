@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#auth data that will be moved into an .env file in the future
+app/auth/AuthString.ts
